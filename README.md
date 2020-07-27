@@ -5,3 +5,4 @@ Repository includes:
 - [index.html](https://olivervipond.github.io/COVID-GIS/) the interactive plot hosted using GitHub pages.
   - Regions are coloured by percentage change.
   - Click on a region to display regional trend.
+  - Interact with Date Slider to change data displayed on the map.
